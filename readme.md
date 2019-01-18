@@ -12,13 +12,13 @@ It is a multi-user online-gallery portal which allows users to create albums, ad
 
 Shared photos of users would appear on the dashboard page of the website which is the default page the user would be directed to after successful login/register.
 
-Technology Stack used in the project :
+<h3> Technology Stack used in the project : </h3>
 
--Laravel authentication for user management.
--Foundation 6 CSS framework for user interface.
--SASS for customizing css styles inherited through Foundation framework
--Laravel colletor forms package for managing registration forms and user photo upload forms.
--AJAX through Jquery for sharing photos once the user has opted to share a picture of one of his galleries.
+<li>Laravel authentication for user management.</li>
+<li>Foundation 6 CSS framework for user interface.</li>
+<li>SASS for customizing css styles inherited through Foundation framework</li>
+<li>Laravel colletor forms package for managing registration forms and user photo upload forms.</li>
+<li>AJAX through Jquery for sharing photos once the user has opted to share a picture of one of his galleries.</li>
 
 ## About Laravel
 
