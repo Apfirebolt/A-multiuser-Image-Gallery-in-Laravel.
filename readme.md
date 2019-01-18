@@ -6,6 +6,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## About Project
+
+It is a multi-user online-gallery portal which allows users to create albums, add photos into existing albums and share certain photos in their albums to other users using the application.
+
+Shared photos of users would appear on the dashboard page of the website which is the default page the user would be directed to after successful login/register.
+
+Technology Stack used in the project :
+
+-Laravel authentication for user management.
+-Foundation 6 CSS framework for user interface.
+-SASS for customizing css styles inherited through Foundation framework
+-Laravel colletor forms package for managing registration forms and user photo upload forms.
+-AJAX through Jquery for sharing photos once the user has opted to share a picture of one of his galleries.
 
 ## About Laravel
 
