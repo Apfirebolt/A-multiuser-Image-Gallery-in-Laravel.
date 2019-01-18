@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## About Project
+<h1>About Project</h1>
 
 It is a multi-user online-gallery portal which allows users to create albums, add photos into existing albums and share certain photos in their albums to other users using the application.
 
